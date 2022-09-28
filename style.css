@@ -1,0 +1,92 @@
+.REGIST{
+
+    width: 360px;
+    height:360px;
+    border-radius: 3px;
+    margin:auto;
+    background: url('science.webp') ;
+    background-size: cover;
+    
+  } h6 {
+    margin-left:65px ;
+    padding-top: 3px;
+
+  }
+  form {
+    margin-left: 60px;
+  }
+  
+  form input {
+    width: 70%;
+    padding: 3px;
+    border: 50px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+  }
+    form button{
+      width: 30%;
+      padding: 3px;
+      border-radius: 20px;
+      margin-bottom: 15px;
+      margin-left:55px ;
+    }
+    .login{
+
+      width: 360px;
+      height:250px;
+      border-radius: 3px;
+      margin:auto;
+      background: url('science.webp') ;
+      background-size: cover;
+      
+    }
+     h6 {
+      margin-left:65px ;
+      padding-top: 3px;
+  
+    }
+    form {
+      margin-left: 60px;
+    }
+    
+    form input {
+      width: 70%;
+      padding: 3px;
+      border: 50px;
+      margin-bottom: 15px;
+      border-radius: 20px;
+    }
+      form button{
+        width: 30%;
+        padding: 3px;
+        border-radius: 20px;
+        margin-bottom: 15px;
+        margin-left:55px ;
+      }
+      .password{
+
+        width: 360px;
+        height:250px;
+        border-radius: 3px;
+        margin:auto;
+        background: url('science.webp') ;
+        background-size: cover;
+        
+      }
+       h6 {
+        margin-left:65px ;
+        padding-top: 3px;
+    
+      }
+      form {
+        margin-left: 60px;
+      }
+      
+      form input {
+        width: 70%;
+        padding: 3px;
+        border: 50px;
+        margin-bottom: 15px;
+        border-radius: 20px;
+      }
+      

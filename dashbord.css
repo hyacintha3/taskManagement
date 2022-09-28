@@ -1,0 +1,15 @@
+.dash{
+    display: flex;
+    width: 600px;
+    height: 200px;
+    gap: 20px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    margin-top:30px;
+    background-color: blue;
+    justify-content: space-between;
+    padding-top: 10px ;
+}
+
